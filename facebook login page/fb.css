@@ -1,0 +1,45 @@
+body,h1,h2,h3,h4,h5,h6,p{
+    padding: 0%;
+    margin:0%;
+    font-family:'Roboto', sans-serif;
+    text-align: center ;
+}
+.main-div{
+    background-color: #f0f2f5;
+    display: flex;
+    
+    
+}
+#logo{
+    font-size:56px;
+    color:#0b66ff;
+    padding:15px 0px;
+}
+.signup-form{
+    background-color: #fff;
+    width:430px;
+    border-radius: 8px;
+}
+.formheading{
+    text-align: center;
+    border-bottom: 1px solid gray;
+}
+h2{
+    padding-bottom:7px;
+}
+.input-fields{
+    padding:15px;
+    
+}
+input{
+    padding: 8px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+}
+.half-width{
+    width: 50px;
+}
+p{
+    text-align: center;
+}

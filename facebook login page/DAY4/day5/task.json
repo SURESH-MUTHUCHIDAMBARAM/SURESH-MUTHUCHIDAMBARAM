@@ -1,0 +1,26 @@
+{
+    "name": "Suresh",
+    "address": "11-a nataraja theatre road, sattur",
+    "email": "suresh@gmail.com",
+    "mobile": "8248737569",
+    "education": {
+      "SSLC": "82%",
+      "HSC": "48%",
+      "UG": {
+        "degree": "B.COM",
+        "percentage": "61%"
+      },
+      "PG": {
+        "degree": "M.COM",
+        "percentage": "68%"
+      }
+    },
+    "skills": [
+      "Accounting",
+      "Microsoft Excel",
+      "Microsoft Office",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }
